@@ -4,8 +4,7 @@ on: push
 
 jobs:
   build:
-    runs-on:
-      -self-hosted
+    runs-on: self-hosted
   super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
