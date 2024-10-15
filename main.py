@@ -3,7 +3,7 @@ def hi():
 
 
 def foo():
-    pass
+    print("hi")
 
 print(hi())
 print(foo())
