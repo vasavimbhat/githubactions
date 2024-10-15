@@ -6,3 +6,4 @@ def foo():
     pass
 
 print(hi())
+print(foo())
