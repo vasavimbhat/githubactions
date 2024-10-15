@@ -1,8 +1,8 @@
-def hello():
-    print("hi")
- 
- 
- def bye():
-    print("bye")
+def hi():
+    print("hello")
 
-print(hello())
+
+def foo():
+    pass
+
+print(hi())
